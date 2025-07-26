@@ -29,6 +29,7 @@ An end-to-end Retail Data Analysis Dashboard using Excel, focusing on exploring 
 
 💡 Built for practice 
 Feel free to explore, give feedback, or fork the repo!
-![Image Alt]([image_url](https://github.com/JannatulFerdousShormy/Store-Data-Analysis/blob/de975b1e55a3a36a56e2746e1d350cebeea10bf9/Dasboard.jpeg))
+
+![Store Data Dashboard](https://github.com/JannatulFerdousShormy/Store-Data-Analysis/blob/main/Dasboard.jpeg?raw=true)
 
 
