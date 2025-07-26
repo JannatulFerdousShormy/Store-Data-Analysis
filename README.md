@@ -27,6 +27,8 @@ An end-to-end Retail Data Analysis Dashboard using Excel, focusing on exploring 
 🏷️ Category-wise insights (coming soon)
 → Currently working on integrating category-level analysis in the next version
 
+![Image Alt](image_url)
+
 
 💡 Built for practice and interview readiness (esp. for Data Analyst & Data Engineer roles).
 
