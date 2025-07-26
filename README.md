@@ -27,9 +27,8 @@ An end-to-end Retail Data Analysis Dashboard using Excel, focusing on exploring 
 🏷️ Category-wise insights (coming soon)
 → Currently working on integrating category-level analysis in the next version
 
-![Image Alt](image_url)
-
-
-💡 Built for practice and interview readiness (esp. for Data Analyst & Data Engineer roles).
-
+💡 Built for practice 
 Feel free to explore, give feedback, or fork the repo!
+![Image Alt]([image_url](https://github.com/JannatulFerdousShormy/Store-Data-Analysis/blob/de975b1e55a3a36a56e2746e1d350cebeea10bf9/Dasboard.jpeg))
+
+
